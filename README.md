@@ -1,0 +1,1 @@
+# LAMP-WP-vagrant-box
